@@ -8,6 +8,15 @@
       "phone": "1231231231",
       "dob": "01/03/1994",
       "zip": "492001"
+    },
+    {
+      "firstName": "Jeet",
+      "lastName": "Haldar",
+      "email": "jeet@gmail.com",
+      "password": "00000",
+      "phone": "1212121212",
+      "dob": "12/12/1995",
+      "zip": "492001"
     }
   ],
   "comments": [
