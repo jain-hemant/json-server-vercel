@@ -1,9 +1,23 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "users": [
+    {
+      "firstName": 1,
+      "lastName": "json-server",
+      "email": "typicode",
+      "password": "12345",
+      "phone": "1231231231",
+      "dob": "01/03/1994",
+      "zip": "492001"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
-  "profile": { "name": "typicode" }
+  "profile": {
+    "name": "typicode"
+  }
 }
